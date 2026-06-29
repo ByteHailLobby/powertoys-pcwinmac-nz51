@@ -1,4 +1,4 @@
-# 
+# Smart PowerToys add-ons for Mac OS | Official PowerToys add-ons for PC Windows. Featuring data caching and clipboard management — optimized for maximum performance on every platform.
 
 
 
